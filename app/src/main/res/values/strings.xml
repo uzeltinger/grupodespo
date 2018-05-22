@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Grupo Despo Catálogo</string>
+    <string name="action_settings">Configuración</string>
+    <string name="configuration_activity_name">Configuración</string>
+    <string name="action_sales">Pedidos</string>
+    <string name="title_activity_subcategories">Subcategorías</string>
+    <string name="title_activity_categories">Categorías</string>
+    <string name="text_cliente_name">Nombre o código de Cliente</string>
+    <string name="title_activity_products_list">ProductsListActivity</string>
+    <string name="title_activity_product_detail">ProductDetailActivity</string>
+    <string name="title_activity_sale">Pedido</string>
+    <string name="title_activity_sales">Pedidos</string>
+</resources>
